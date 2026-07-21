@@ -19,7 +19,7 @@ metadata:
     short: C
 assets:
   parts:
-  - {seq: 0, filename: KR6s0010_000-C.yaml, hash: 'sha256:6161f9f860ffd06aae186d6cad509fd99f323f7e806ffcd7e1757f6ca461d1bb'}
+  - {seq: 0, filename: KR6s0010_000-C.yaml, hash: 'sha256:d93fef0866976a130c9dc5f6453d99fd8ba3f35c37cc0df66437a01d84af0727'}
   - {seq: 1, filename: KR6s0010_001-C.yaml, hash: 'sha256:59f86573a1c0c123d67cb9ccbc1dc88eeb3351ed63174d00acb1c696e045dbd4'}
   - {seq: 2, filename: KR6s0010_002-C.yaml, hash: 'sha256:b91dff4b812c96410f562b9a144d097eb2568db99168e67922e62dca30ee68ff'}
   - {seq: 3, filename: KR6s0010_003-C.yaml, hash: 'sha256:e62663c8a57d9a9a63a0fc5656d8a6cb6cc24ae7af42b61e641f65bbeebc525f'}
@@ -36,7 +36,7 @@ assets:
   - {seq: 14, filename: KR6s0010_014-C.yaml, hash: 'sha256:df30d8da715f5d4ab30d58173ba290631cbf44e3e24d87bcb696da09684db93a'}
   - {seq: 15, filename: KR6s0010_015-C.yaml, hash: 'sha256:02960d0d396367c53f723c0369fa019d630dcfb8fef1102139395d7715f81650'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0010_000-C.markers.yaml, hash: 'sha256:37c883343b440f0a32e6aafae3fb4f9497d5a42ed3897a67b547a01d5abdd728'}
+  - {seq: 0, role: markers, filename: assets/KR6s0010_000-C.markers.yaml, hash: 'sha256:fac7e6515cc46334b73ad13fc9d71268ee43c0ac3d7ebd726f7b529c82f2253d'}
   - {seq: 1, role: markers, filename: assets/KR6s0010_001-C.markers.yaml, hash: 'sha256:0acb0d86d6ad227c7927d127446621bc4ced820e515eb9ceb85fad2ea5e1027b'}
   - {seq: 2, role: markers, filename: assets/KR6s0010_002-C.markers.yaml, hash: 'sha256:5ddb88eb340c97f8bb59d8ded43cb2151a5db05d7612f112d96eea02b417de55'}
   - {seq: 3, role: markers, filename: assets/KR6s0010_003-C.markers.yaml, hash: 'sha256:7e9c494488ed391b3a5a91023213caf6091a29b9982cc08ab553f0087744dcfd'}
@@ -53,4 +53,4 @@ assets:
   - {seq: 14, role: markers, filename: assets/KR6s0010_014-C.markers.yaml, hash: 'sha256:e911fe958ce81141fae85c0650a5d6252b97fd31a467482525845bd8b7327d28'}
   - {seq: 15, role: markers, filename: assets/KR6s0010_015-C.markers.yaml, hash: 'sha256:86fbf41f9e2f0959245766fdf220a6891489748054658d59719b7ecf847df8dd'}
 table_of_contents: []
-hash: sha256:43eb5746e3d068cd57c715cd3523893d9c636cedd38df1b0dd6f8384b2b72875
+hash: sha256:ee734966bc40bba6241745a8ee9f15bb3883141e93a6cf31b9974abfe73d5d32
